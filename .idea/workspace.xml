@@ -2,121 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f32a1b5-5187-434d-a4b6-86d53169090a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GHOST.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author_pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/dynamic_tag_info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/dynamic_title.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/facebook.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/floating-header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/ghost-logo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/infinity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/location.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/page-scripts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/point.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-card-error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-card-next.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-card-previous.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-scripts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post_pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/rss.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/site-nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/subscribe-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/tag_pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/twitter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/website.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/author.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-autgenerator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-capitalize-all.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-tagsgenerator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1863-11-19-gettysburg-address.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1865-11-26-down-the-rabbit-hole.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1871-03-18-looking-glass-house.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1912-07-24-out-to-sea.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1948-12-12-the-purpose-of-education.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1963-08-28-i-have-a-dream.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-09-01-a-full-and-comprehensive-style-test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-12-the-businessman-and-fisherman.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-advanced-markdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-managing-users.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-private-sites.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-the-editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-themes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-using-tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-welcome.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/global.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/screen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/screen.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/screen.edited.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/screen.edited.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/built/syntax.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/.csscomb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/csscomb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/screen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/screen.edited.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/abraham.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/advanced.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bear.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/edgar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/fables.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ghost-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ghost.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/grapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hannah-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hannah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/john.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/lewis.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/locked.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/martin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/piano.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/sky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/speeches.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/summit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tags.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/team.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/water.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/waves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/welcome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/writing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/infinitescroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.fitvids.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/screenshot-desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/screenshot-mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,10 +21,51 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -156,7 +83,43 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejuhee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejuhee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,22 +150,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539680159411</updated>
-      <workItem from="1539680160968" duration="647000" />
+      <workItem from="1539680160968" duration="937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="647000" />
+    <option name="totallyTimeSpent" value="937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -221,5 +185,24 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
