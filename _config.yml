@@ -1,0 +1,26 @@
+# Site settings
+name: YUN DAE HEE
+email: 076923@naver.com
+author: YUN DAE HEE
+url: http://076923.github.io
+resume_site: http://076923.github.io
+github: https://github.com/s076923/
+baseurl: ""
+description: Urbanbase Threejs
+meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: Urbanbase YUN DAE HEE
+banner: Urbanbase Computer Vision
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: s076923
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 
+
