@@ -2,72 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f32a1b5-5187-434d-a4b6-86d53169090a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.sass-cache/c7cbbc39cd3a5dac9be2e4a5062de59e41cc6ff5/minima.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/db85969e9cbc40af68be6066a9b54d49788ef835/_base.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/db85969e9cbc40af68be6066a9b54d49788ef835/_layout.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/db85969e9cbc40af68be6066a9b54d49788ef835/_syntax-highlighting.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GHOST.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/LessOrMore/pages_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/docs_header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/author_pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/dynamic_tag_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/dynamic_title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/facebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/floating-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/ghost-logo.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/lefttree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/infinity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/location.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/point.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-card-error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-card-next.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-card-previous.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/rss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/site-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/subscribe-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/tag_pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/twitter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/author.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-25-test.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate/method/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-autgenerator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-capitalize-all.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_plugins/jekyll-tagsgenerator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1863-11-19-gettysburg-address.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1865-11-26-down-the-rabbit-hole.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1871-03-18-looking-glass-house.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1912-07-24-out-to-sea.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1948-12-12-the-purpose-of-education.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/1963-08-28-i-have-a-dream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-09-01-a-full-and-comprehensive-style-test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-12-the-businessman-and-fisherman.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-advanced-markdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-managing-users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-private-sites.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-the-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-themes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-using-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-welcome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/global.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/screen.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/screen.edited.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/screen.edited.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/syntax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/built/syntax.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/.csscomb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/csscomb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/screen.edited.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/syntax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/abraham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/advanced.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/blog-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/blog-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/edgar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fables.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/ghost-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/ghost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/grapes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hannah-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hannah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/john.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/lewis.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/locked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/martin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/piano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/speeches.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/summit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tags.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/water.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/waves.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/welcome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/writing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/infinitescroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.fitvids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/screenshot-desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/screenshot-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/controls/OrbitControls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/controls/TrackballControls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/libs/dat.gui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/libs/stats.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/system/GPUParticleSystem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/three.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/geometry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/gpu particle system.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/textures/particle2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/textures/perlin-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/css/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/abandon-comments/yungentie-abandon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/favicon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/yungentie/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/yungentie/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/yungentie/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/yungentie/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/yungentie/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/js/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/js/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/js/lessismore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539680159411</updated>
-      <workItem from="1539680160968" duration="373000" />
+      <workItem from="1539680160968" duration="647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="373000" />
+    <option name="totallyTimeSpent" value="647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
